@@ -24,4 +24,4 @@ class Development(Config):
 
     MONGO_PORT = 27017  # leave it as it is
 
-    MONGO_DB = "Zeldris"
+    MONGO_DB = "vcbot"
