@@ -14,7 +14,7 @@ class Config(object):
 
     OWNER_USERNAME = "lived_enough"
 
-    API_HASH = f08f8caff5aac56229e9f02bd67e48ea  # for purge stuffs
+    API_HASH = "f08f8caff5aac56229e9f02bd67e48ea"  # for purge stuffs
 
     API_ID = 12388301
 
