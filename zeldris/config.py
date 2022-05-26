@@ -20,7 +20,7 @@ class Development(Config):
 
     NO_LOAD = ['translation']
 
-    MONGO_URI = mongodb+srv://vcbot:vcbot@cluster0.dnn8y.mongodb.net/myFirstDatabase?retryWrites=true&w=majority""
+    MONGO_URI = "mongodb+srv://vcbot:vcbot@cluster0.dnn8y.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 
     MONGO_PORT = 27017  # leave it as it is
 
